@@ -1,7 +1,5 @@
 package com.ifeng.sql;
 
-import com.ifeng.array.ArrayTool;
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
