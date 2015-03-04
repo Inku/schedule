@@ -1,4 +1,4 @@
-package com.ifeng.array;
+package com.ifeng.schedule.array;
 
 /**
  * Created by Inku on 2015/3/2.

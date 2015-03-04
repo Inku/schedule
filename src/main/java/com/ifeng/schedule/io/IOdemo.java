@@ -1,4 +1,4 @@
-package com.ifeng.io;
+package com.ifeng.schedule.io;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

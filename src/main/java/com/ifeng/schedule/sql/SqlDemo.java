@@ -1,4 +1,4 @@
-package com.ifeng.sql;
+package com.ifeng.schedule.sql;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -40,7 +40,7 @@ public class SqlDemo {
         }
         System.out.println(str);
 
-        BufferedWriter writer = new BufferedWriter(new FileWriter(new File("columnForNews.txt"), false));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(new File("src/main/resources/columnForNews.txt"), false));
         writer.write(str);
         writer.close();
     }

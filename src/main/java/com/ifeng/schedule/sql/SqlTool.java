@@ -1,4 +1,4 @@
-package com.ifeng.sql;
+package com.ifeng.schedule.sql;
 
 import java.sql.*;
 import java.util.ArrayList;
