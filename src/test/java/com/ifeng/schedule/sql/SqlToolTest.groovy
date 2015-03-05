@@ -8,6 +8,7 @@ import org.junit.Test
 class SqlToolTest extends GroovyTestCase {
     @Test
     void testSelectByParentId() {
-        println "测试";
+        def sqlTool = new SqlTool();
+        println sqlTool.selectByParentId(12795)
     }
 }
