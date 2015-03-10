@@ -1,4 +1,4 @@
-package com.ifeng.schedule.oo;
+package com.ifeng.schedule.oo.interf;
 
 /**
  * Created by zhengpeng on 15/3/9.
