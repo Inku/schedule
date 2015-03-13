@@ -11,7 +11,11 @@ public class Single2 {
 
     public static Single2 getInstance() {
         if (s == null) {
-            s = new Single2();
+            synchronized (Single2.class) {
+                if (s == null) {
+                    s = new Single2();
+                }
+            }
         }
         return s;
     }
