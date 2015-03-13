@@ -4,9 +4,9 @@ package com.ifeng.schedule.thread;
  * Created by zhengpeng on 15/3/13.
  */
 public class Input implements Runnable {
-    Resource r;
+    Resource1 r;
 
-    public Input(Resource r) {
+    public Input(Resource1 r) {
         this.r = r;
     }
 

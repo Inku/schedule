@@ -4,9 +4,9 @@ package com.ifeng.schedule.thread;
  * Created by zhengpeng on 15/3/13.
  */
 public class Output implements Runnable {
-    Resource r;
+    Resource1 r;
 
-    public Output(Resource r) {
+    public Output(Resource1 r) {
         this.r = r;
     }
 

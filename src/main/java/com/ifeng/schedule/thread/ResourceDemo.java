@@ -5,7 +5,7 @@ package com.ifeng.schedule.thread;
  */
 public class ResourceDemo {
     public static void main(String[] args) {
-        Resource r = new Resource();
+        Resource1 r = new Resource1();
         Input input = new Input(r);
         Output output = new Output(r);
 
