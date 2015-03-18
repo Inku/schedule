@@ -1,12 +1,10 @@
 package com.ifeng.schedule.thread;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by Inku on 2015/3/13.
  */
 class MyThread implements Runnable {

@@ -6,6 +6,7 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by zhengpeng on 15/3/10.
  */
 public class SystemTest {

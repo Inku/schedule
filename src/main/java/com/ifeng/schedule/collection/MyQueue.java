@@ -3,6 +3,7 @@ package com.ifeng.schedule.collection;
 import java.util.LinkedList;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by zhengpeng on 15/3/17.
  */
 public class MyQueue {

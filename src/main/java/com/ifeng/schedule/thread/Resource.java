@@ -4,6 +4,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by zhengpeng on 15/3/13.
  */
 public class Resource {

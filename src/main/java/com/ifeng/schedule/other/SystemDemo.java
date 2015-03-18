@@ -3,6 +3,7 @@ package com.ifeng.schedule.other;
 import java.util.*;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by Inku on 2015/3/15.
  */
 public class SystemDemo {

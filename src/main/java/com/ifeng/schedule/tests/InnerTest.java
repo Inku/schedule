@@ -1,6 +1,7 @@
 package com.ifeng.schedule.tests;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by zhengpeng on 15/3/11.
  */
 interface Inter{

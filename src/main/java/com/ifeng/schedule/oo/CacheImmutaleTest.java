@@ -1,9 +1,9 @@
 package com.ifeng.schedule.oo;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by zhengpeng on 15/3/9.
  */
-
 class CacheImmutale {
     private static int MAX_SIZE = 10;
     //使用数组来缓存已有的实例

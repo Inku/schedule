@@ -1,9 +1,9 @@
 package com.ifeng.schedule.oo;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by zhengpeng on 15/3/9.
  */
-
 public class ImmutableStringTest
 {
     public static void main(String[] args)

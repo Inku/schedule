@@ -5,6 +5,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by Inku on 2015/3/16.
  */
 public class IteratorDemo {

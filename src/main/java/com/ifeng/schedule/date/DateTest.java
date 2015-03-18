@@ -3,6 +3,7 @@ package com.ifeng.schedule.date;
 import java.util.Date;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by Inku on 2015/3/10.
  */
 public class DateTest {

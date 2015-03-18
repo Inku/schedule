@@ -3,6 +3,7 @@ package com.ifeng.schedule.other;
 import java.io.IOException;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by zhengpeng on 15/3/16.
  */
 public class RuntimeDemo {

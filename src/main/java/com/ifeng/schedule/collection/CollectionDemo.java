@@ -1,6 +1,7 @@
 package com.ifeng.schedule.collection;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by zhengpeng on 15/3/17.
  */
 public class CollectionDemo {

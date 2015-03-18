@@ -3,6 +3,7 @@ package com.ifeng.schedule.exception;
 import java.io.*;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by zhengpeng on 15/3/10.
  */
 public class AutoCloseTest {

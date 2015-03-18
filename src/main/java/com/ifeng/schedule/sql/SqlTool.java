@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ * Copyright ©Inku. All rights reserved.
  * Created by Inku on 2015/3/3.
  */
 public class SqlTool {
