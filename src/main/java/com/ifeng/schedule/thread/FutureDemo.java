@@ -10,7 +10,7 @@ import java.util.concurrent.FutureTask;
 public class FutureDemo {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
         CallableDemo cd = new CallableDemo();
-        FutureTask<Integer> future = new FutureTask<Integer>(cd);
+        FutureTask<Integer> future = new FutureTask<>(cd);
         Thread t1 = new Thread(future);
         t1.start();
         System.out.println(future.get());
