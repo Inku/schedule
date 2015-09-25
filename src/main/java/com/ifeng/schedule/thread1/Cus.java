@@ -1,8 +1,5 @@
 package com.ifeng.schedule.thread1;
 
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
-
 /**
  * Copyright ©Inku All Rights Reserved.
  * Created by sheng on 2015/9/24.
