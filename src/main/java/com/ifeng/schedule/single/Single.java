@@ -6,7 +6,7 @@ package com.ifeng.schedule.single;
  */
 public class Single {
 
-    private static Single s = new Single();
+    private static final Single s = new Single();
 
     private Single() {
     }
