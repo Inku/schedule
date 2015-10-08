@@ -10,5 +10,11 @@ public class CommandTest {
         int[] target = {3, -4, 6, 5};
         pa.process(target, new PrintCommand());
         pa.process(target, new AddCommand());
+
+        pa.process(target, target1 -> {
+            for (int i : target1) {
+                System.out.println(i);
+            }
+        });
     }
 }
